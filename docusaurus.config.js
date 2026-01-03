@@ -1,6 +1,6 @@
 module.exports = {
 	title: "RoManager",
-	tagline: "A free, feature-rich Discord-to-Roblox bot.",
+	tagline: "A free, feature-rich Discord-to-Roblox bot. Hosted by GeorgioC710",
 	url: "https://romanager.bot",
 	baseUrl: "/",
 	onBrokenLinks: "throw",
