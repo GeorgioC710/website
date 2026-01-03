@@ -25,19 +25,8 @@ const features = [
 			</>
 		),
 	},
-	{
-		title: "Free, forever",
-		description: (
-			<>
-				RoManager will remain free, forever. Both free as in free-to-use, and{" "}
-				<Link to="https://github.com/RoManager-org/romanager-oss">
-					free as in open-source
-				</Link>
-				, allowing you to host your own version.
-			</>
-		),
-	},
 ];
+
 
 const Feature = ({
 	title,
